@@ -1,0 +1,9 @@
+title: Library API Docs
+description: Documentation for a RESTful Library System API using OpenAPI and Zudoku.
+version: 1.0.0
+theme: default
+navigation:
+  - About: about.md
+  - Installation: installation.md
+  - Authorization: authorization.md
+  - OpenAPI Spec: ../library_api.yaml
